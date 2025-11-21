@@ -4,7 +4,7 @@
 
 const GAME_DATA = {
   title: "Hill Climb Racing",
-  developer: "Blink Games",
+  developer: "Zipy Games by Microbuzz Tech",
   rating: "⭐ 4.2",
   ageRating: "Rated for 3+",
   plays: "10K+ Plays",
